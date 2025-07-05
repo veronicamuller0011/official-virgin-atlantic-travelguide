@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://official-virgin-atlantic-travelguide.pages.dev/sitemap.xml
